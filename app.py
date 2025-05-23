@@ -89,9 +89,11 @@ def seconds_to_hhmmss(seconds):
 with st.expander("📖 Instrukcja (kliknij, aby rozwinąć)"):
     st.write("""
         Wpisz kolejno swoją płeć, wiek, oraz Tempo na 5 km.
-        Aplikacja wyestymuje twój przybliżony Tempo, jaki będzie potrzebny, 
+        Aplikacja wyestymuje twój przybliżony czas, jaki będzie potrzebny, 
         aby ukończyć półmaraton.
         Oceń ostateczny wynik.
+             
+        Estymacja wyników jest na bazie danych z półmaratonu wrocławskiego z lat 2023 i 2024
     """)
 
 if 'user_input' not in st.session_state:
