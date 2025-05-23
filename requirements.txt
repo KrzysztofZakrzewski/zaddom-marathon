@@ -1,5 +1,5 @@
-pandas
-streamlit
-python-dotenv
-langfuse
-pycaret
+pandas==1.5.3
+streamlit==1.44.1
+python-dotenv==1.0.0
+langfuse==2.60.3
+pycaret==3.3.2
