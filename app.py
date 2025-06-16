@@ -124,3 +124,6 @@ if prompt:
         except ValueError as e:
             # Error handling when input is invalid
             st.markdown(str(e))
+
+
+#komentarz testowy
