@@ -1,1 +1,1 @@
-Naprawa polskich znaków utf-8
+Naprawa polskich znaków encoding=utf-8
